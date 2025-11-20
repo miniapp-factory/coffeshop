@@ -1,4 +1,3 @@
-"use client";
 
 import { title, description } from "@/lib/metadata";
 import { generateMetadata } from "@/lib/farcaster-embed";
